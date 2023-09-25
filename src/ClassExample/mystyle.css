@@ -1,0 +1,40 @@
+.background{
+    background-color: rgb(134, 27, 211);
+}
+.navbar-brand{
+    font-family: Bernard MT Condensed;
+    font-size:30px;
+}
+.card-title{
+    height:80px;
+
+}
+
+.card-text{
+    height:100px;
+}
+.img{
+    height:350px;
+}
+.font{
+    color:white;
+    font-family: cursive;
+}
+.h1{
+    text-align: center;
+}
+.size{
+    font-size: 20px;
+}
+
+.width{
+    height:350px;
+    width:300px;
+}
+.margin-left{
+    margin-left: 60px;
+    float:left;
+}
+.margin-top{
+    margin-top: 20px;
+}
